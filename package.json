@@ -4,8 +4,10 @@
   "description": "Simple OS info - Demo module",
   "main": "stackos.js",
   "repository": "https://github.com/mark-way2b1/stackos.git",
+  "bugs": "https://github.com/mark-way2b1/stackos/issues",
   "author": "Mark Young <mark@way2b1.com>",
   "license": "MIT",
+  "keywords": ["os", "demo", "udemy yarn course"],
   "dependencies": {
     "chalk": "~2.4.2"
   }
