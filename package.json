@@ -1,0 +1,12 @@
+{
+  "name": "stackos",
+  "version": "1.0.0",
+  "description": "Simple OS info - Demo module",
+  "main": "stackos.js",
+  "repository": "https://github.com/mark-way2b1/stackos.git",
+  "author": "Mark Young <mark@way2b1.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "~2.4.2"
+  }
+}
